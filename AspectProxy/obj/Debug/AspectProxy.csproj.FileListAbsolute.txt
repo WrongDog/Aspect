@@ -1,0 +1,10 @@
+C:\Users\youy\Downloads\AspectIntercept\AspectProxy\bin\Debug\AspectProxy.dll
+C:\Users\youy\Downloads\AspectIntercept\AspectProxy\bin\Debug\AspectProxy.pdb
+C:\Users\youy\Downloads\AspectIntercept\AspectProxy\obj\Debug\AspectProxy.csprojResolveAssemblyReference.cache
+C:\Users\youy\Downloads\AspectIntercept\AspectProxy\obj\Debug\AspectProxy.dll
+C:\Users\youy\Downloads\AspectIntercept\AspectProxy\obj\Debug\AspectProxy.pdb
+C:\Users\youy\Downloads\Aspect\AspectProxy\bin\Debug\AspectProxy.dll
+C:\Users\youy\Downloads\Aspect\AspectProxy\bin\Debug\AspectProxy.pdb
+C:\Users\youy\Downloads\Aspect\AspectProxy\obj\Debug\AspectProxy.dll
+C:\Users\youy\Downloads\Aspect\AspectProxy\obj\Debug\AspectProxy.pdb
+C:\Users\youy\Downloads\Aspect\AspectProxy\obj\Debug\AspectProxy.csprojResolveAssemblyReference.cache
